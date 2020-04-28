@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from a module, Gophers!")
+	fmt.Println("This is lesson2. It has a module")
 }
 
